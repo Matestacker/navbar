@@ -81,7 +81,7 @@ body{
 	display: flex;
 	max-width: 100%;
 	height: 80vh;
-	background-image: url(img-hero.jpg);
+	background-image: url(https://esieduc.org/wp-content/uploads/2021/12/89426627-b2c1-46e0-a092-7bda8017dc28.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: left;
@@ -144,7 +144,7 @@ body{
 
 
 .hero {
-    background-image: url(https://img.freepik.com/vector-gratis/concepto-isometrico-inicio_1284-10902.jpg); 
+    background-image: url(marketing2.jpg); 
     background-size: cover;
     background-position: center;
     height: 100vh;
